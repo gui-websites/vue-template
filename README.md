@@ -1,12 +1,12 @@
-# Vue Template
+# Vue template
 
 A handy dandy template with the usual configurations i use to make starting new projects a lot easier !!!
 
-## Configuration
+## Config
 
-- Build Tool: `Vite`
-- Fontend Framework: `Vue3`
-- Scripting language: `Typescript`
-- Styling framework: `Tailwind CSS`
+- Frontend: `Nuxt`
+- Backend: `Pocketbase`
+- Deployement: `Docker compose`
+
+- CSS Framework: `Tailwind CSS`
 - Icon pack: `Feather icons`
-- State management: `Pinia`

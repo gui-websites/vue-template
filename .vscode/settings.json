@@ -9,13 +9,14 @@
     ".vscode/": true,
     "node_modules/": true,
     "package-lock.json": true,
-    "dist/": true,
     ".gitignore": true,
 
     "prettier.config.js": true,
     "stylelint.config.js": true,
     "postcss.config.js": true,
 
-    "tsconfig.*": true
+    "tsconfig.*": true,
+    ".nuxt/": true,
+    ".dockerignore": true
   }
 }
